@@ -20,13 +20,13 @@ Part 2: Feature Implementation
 You implemented the following features:
 
 Feature 1: Lecturers can submit their claims at any time with a click of a button
-You provided a code snippet for the claim submission form, including fields for hours worked, hourly rate, and additional notes.
+i provided a code snippet for the claim submission form, including fields for hours worked, hourly rate, and additional notes.
 The corresponding controller action handles form submission, saves the claim to the database, and redirects the user to the index page.
 Feature 2: Programme Coordinators and Academic Managers can easily verify and approve the claims
-You provided a code snippet for the claim verification view, including a table with claim details and buttons for approving or rejecting claims.
+i provided a code snippet for the claim verification view, including a table with claim details and buttons for approving or rejecting claims.
 The corresponding controller actions handle approval and rejection, updating the claim status in the database.
 Feature 3: Lecturers can upload supporting documents for their claims
-You provided a code snippet for the file upload form, including a field for the supporting document.
+i provided a code snippet for the file upload form, including a field for the supporting document.
 The corresponding controller action handles file upload, saves the file to the database, and updates the claim with the file path.
 Feature 4: The claim status can be tracked transparently until it is settled
 You added a status field to the Claim model and updated the controller actions for approving and rejecting claims to update the status accordingly.
