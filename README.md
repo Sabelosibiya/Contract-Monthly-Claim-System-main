@@ -14,7 +14,6 @@ GUI IU: You described the user interface components, including:
 Home Page with a login form
 Lecturer Dashboard with sections for submitting claims, uploading supporting documents, and tracking claim status
 Programme Coordinator/Academic Manager Dashboard with sections for verifying claims, viewing claim details, and approving/rejecting claims
-Version Control: You mentioned using GitHub for version control, with regular commits and descriptive commit messages.
 Part 2: Feature Implementation
 
 You implemented the following features:
