@@ -34,4 +34,4 @@ You also added a status label to the claim verification view to display the curr
 Feature 5: The system always provides consistent and reliable information
 You provided a sample code snippet for testing the claim submission functionality using xUnit.
 You also included an example of error handling in the claim submission functionality, catching exceptions and displaying an error message to the user.
-Overall, you have implemented a functional prototype for the Contract Monthly Claim System, covering key features such as claim submission, verification, approval, and document management. Your design choices and implementation details demonstrate a clear understanding of the system's requirements and technical specifications.
+Overall, i have implemented a functional prototype for the Contract Monthly Claim System, covering key features such as claim submission, verification, approval, and document management. My design choices and implementation details demonstrate a clear understanding of the system's requirements and technical specifications.
