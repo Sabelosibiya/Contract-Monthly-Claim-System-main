@@ -29,9 +29,9 @@ Feature 3: Lecturers can upload supporting documents for their claims
 i provided a code snippet for the file upload form, including a field for the supporting document.
 The corresponding controller action handles file upload, saves the file to the database, and updates the claim with the file path.
 Feature 4: The claim status can be tracked transparently until it is settled
-You added a status field to the Claim model and updated the controller actions for approving and rejecting claims to update the status accordingly.
-You also added a status label to the claim verification view to display the current status.
+i added a status field to the Claim model and updated the controller actions for approving and rejecting claims to update the status accordingly.
+i also added a status label to the claim verification view to display the current status.
 Feature 5: The system always provides consistent and reliable information
-You provided a sample code snippet for testing the claim submission functionality using xUnit.
+i provided a sample code snippet for testing the claim submission functionality using xUnit.
 You also included an example of error handling in the claim submission functionality, catching exceptions and displaying an error message to the user.
 Overall, i have implemented a functional prototype for the Contract Monthly Claim System, covering key features such as claim submission, verification, approval, and document management. My design choices and implementation details demonstrate a clear understanding of the system's requirements and technical specifications.
